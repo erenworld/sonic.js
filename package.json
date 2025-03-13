@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Analyzes how quickly pages load for different devices or browsers, helping you identify performance issues.",
   "main": "index.js",
+  "unpkg": "dist/sonic.umd.min.js",
+  "files": ["dist"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
