@@ -1,0 +1,22 @@
+{
+  "name": "sonicfaster",
+  "version": "1.0.0",
+  "description": "Make the web faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erenworld/sonic.js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Eren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erenworld/sonic.js/issues"
+  },
+  "homepage": "https://github.com/erenworld/sonic.js#readme"
+}
